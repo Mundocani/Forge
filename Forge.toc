@@ -1,0 +1,26 @@
+## Interface: 80000
+## Author: John Stephen
+## Title: Forge base
+## Version: 1.1
+## Notes: Core functions for Forge addons
+
+## OptionalDeps:
+## RequiredDeps: 
+## SavedVariablesPerCharacter: gForge_CharacterSettings
+## SavedVariables: gForge_GlobalSettings
+
+Forge_Prefix.lua
+
+MC2AddonLib.lua
+MC2DebugLib.lua
+MC2EventLib.lua
+MC2SchedulerLib.lua
+MC2DateLib.lua
+MC2GuildLib.lua
+MC2RaidLib.lua
+MC2UIElementsLib.lua
+
+Forge.lua
+Forge_TimerBars.lua
+Forge_WarningMessage.lua
+Forge_TargetTracker.lua
