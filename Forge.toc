@@ -11,14 +11,14 @@
 
 Forge_Prefix.lua
 
-MC2AddonLib.lua
-MC2DebugLib.lua
-MC2EventLib.lua
-MC2SchedulerLib.lua
-MC2DateLib.lua
-MC2GuildLib.lua
-MC2RaidLib.lua
-MC2UIElementsLib.lua
+Libraries/MC2AddonLib/MC2AddonLib.lua
+Libraries/MC2DebugLib/MC2DebugLib.lua
+Libraries/MC2EventLib/MC2EventLib.lua
+Libraries/MC2SchedulerLib/MC2SchedulerLib.lua
+Libraries/MC2DateLib/MC2DateLib.lua
+Libraries/MC2GuildLib/MC2GuildLib.lua
+Libraries/MC2RaidLib/MC2RaidLib.lua
+Libraries/MC2UIElementsLib/MC2UIElementsLib.lua
 
 Forge.lua
 Forge_TimerBars.lua
